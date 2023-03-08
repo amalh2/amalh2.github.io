@@ -9,11 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
+AMAL HUSSAIN
+======
+amalh2@umbc.edu | 410-953-9782 | https://www.linkedin.com/in/amal-hussain-12150b162/
+
+
+
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Geography and Environmental Systems
+* Certificate in Geographic Information Systems
+
+
+Skills and Languages
+======
+*Computer skills: 
+Python and C++ programs | Beginner QGIS and GIS programs | Proficient 
+MATLAB program | Beginner SolidWorks | Proficient
+Remote Sensing- ENVI program | Proficient
+Microsoft Word, PowerPoint, and Excel | Advanced
+
 
 Work experience
 ======
