@@ -17,8 +17,7 @@ amalh2@umbc.edu | 410-953-9782 | https://www.linkedin.com/in/amal-hussain-12150b
 EDUCATION 
 ======
 * BS in Geography and Environmental Systems, GPA: 3.21/4
-* Certificate in Geographic Information Systems
-*Expected graduation, 2024
+* Certificate in Geographic Information Systems, Expected graduation, 2024
 
 
 SKILLS AND LANGUAGES 
@@ -29,7 +28,7 @@ MATLAB program | Beginner SolidWorks | Proficient
 Remote Sensing- ENVI program | Proficient
 Microsoft Word, PowerPoint, and Excel | Advanced
 
-*Foreign Languages Spanish oral & written | Proficient Urdu (oral) languages | Proficient
+Foreign Languages Spanish oral & written | Proficient Urdu (oral) languages | Proficient
 
 RELEVANT EXPERIENCE 
 ======
