@@ -1,11 +1,4 @@
 ---
-title: "updated_cv"
-author: "Amal"
-date: "2023-03-08"
-output: html_document
----
-
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -13,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+{% include base_path %}
 
 AMAL HUSSAIN 
 ======
