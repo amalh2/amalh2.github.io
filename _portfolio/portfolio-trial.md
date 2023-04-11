@@ -1,7 +1,7 @@
 ---
 title: "486 Lab 6 Map"
 excerpt: "Moran's I Distribution of Vacancy Rates <br/><img src='/images/githib_img_mapPortf.png'>"
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 collection: portfolio
 ---
 
