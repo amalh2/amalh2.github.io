@@ -1,5 +1,5 @@
 ---
-title: "486: Lab 6 Map"
+title: "GES 486: Lab 6 Map"
 excerpt: "Moran's I Distribution of Vacancy Rates <br/><img src='/images/githib_img_mapPortf.png'>"
 
 collection: portfolio
