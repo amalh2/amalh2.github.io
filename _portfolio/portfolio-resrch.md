@@ -1,6 +1,6 @@
 ---
 title: "Summer 2020 NOAA-CESSRST Research Plot"
-excerpt: "2012 plot of Air and Water Temperature in Chesapeake City <br/><img src='/images/githib_img_newImg.png'>"
+excerpt: "2012 plot of Air and Water Temperature in Chesapeake City <br/><img src='/images/plotss.png'>"
 
 collection: portfolio
 ---
