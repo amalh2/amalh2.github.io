@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amal Husssain's Portfolio/ Site Title"
+title                    : "Amal Husssain's Portfolio"
 title_separator          : "-"
 name                     : &name "Amal Hussain"
 description              : &description "my awesome ish 486 files "
@@ -85,8 +85,8 @@ author:
   bio              : "Undergrad student"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : amalh2@umbc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -179,15 +179,11 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+ 
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ 
 
 
 # Defaults
