@@ -7,7 +7,12 @@ collection: portfolio
 
 
 
-This plot is part of my 2020 summer reseach project where I used MATLAB to sift through decade long air and water temperature data to ultimately generate plots comparing 
-air and water temp. from the most complete years to compare these trends to climate change and global warming patterns. 
+This interactive webmap was generated in QGIS and simply displays the locations of ice rinks in Maryland. By clicking on an ice rink point, you are able to get the id, 
+and address for each of these locations. 
 
-file:///C:/Users/Amal/Desktop/Spring%20'23/CLASSES/GES%20486-Adv%20GIS/LABS/lab-10use/results/qgis2web_2023_05_16-19_43_40_950045/index.html#8/39.578/-76.891
+
+[Ice Rinks of MD](http://hmang.github.io/portfolio/FoodBank/index.html)
+
+https://amalh2.github.io/portfolio/lab10_webmap/index.html
+
+
