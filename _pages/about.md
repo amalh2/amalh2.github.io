@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-======
 👋 Hello! I'm Amal Hussain, a 4th-year student at UMBC pursuing a BS in Environmental Science and a Certificate in Geographic Information Systems.
 
 🌱 I'm passionate about the geosciences field, with a focus on environmental remediation, climate change mitigation, renewable energy, wildlife conservation, and ocean science.
@@ -20,6 +19,7 @@ redirect_from:
 📚 I enjoy researching and writing, leveraging my experiences in classes and internships to explore and understand complex environmental problems.
 
 🔗 Check out my [portfolio](https://amalh2.github.io/portfolio/) for demonstrations of the skills I've utilized in various projects.
+🔗Check out my [resume](https://amalh2.github.io/cv/) too to see my past and current work experience! 
 
 Let's make a positive impact on our planet together! 🌍
 
