@@ -20,12 +20,11 @@ About me
 
 📚 I enjoy researching and writing, leveraging my experiences in classes and internships to explore and understand complex environmental problems.
 
-🔗 Check out my portfolio [Portfolio URL] for demonstrations of the skills I've utilized in various projects.
+🔗 Check out my [portfolio](https://amalh2.github.io/portfolio/) for demonstrations of the skills I've utilized in various projects.
 
 Let's make a positive impact on our planet together! 🌍
 
 
-[this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 
 
