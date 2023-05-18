@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-About me
 ======
 👋 Hello! I'm Amal Hussain, a 4th-year student at UMBC pursuing a BS in Environmental Science and a Certificate in Geographic Information Systems.
 
