@@ -1,0 +1,64 @@
+---
+layout: archive
+title: "Assessing the Damage and Community Impacts from the 2020 Wildfire in El Dorado, California"
+permalink: /final_proj/
+author_profile: true
+redirect_from:
+  - /pages
+---
+
+{% include base_path %}
+
+
+Introduction 
+======
+For my final project, I decided to study wildfires in California due to this natural 
+disaster being very frequent and severe in this state, especially in the past 5-10 
+years. Climate change has been intensifying many natural disasters in the US due 
+to warmer temperatures and drier seasons bringing on longer and more intense 
+drought seasons. Additionally, human activities are burning more fossil fuels, 
+releasing more greenhouse gases into the atmosphere like carbon dioxide that help 
+in thickening earth’s ‘blanket’ so more solar energy is retained—heating up the 
+planet. It is astonishing that “…more than half of the 20 largest fires in California 
+history all took place in the last four years” (Lai, 2022) and in 2020 in particular, 
+10,122,336 acres of land burned from 58,950 total fires in the state (National 
+Interagency Fire Center). One 2020 fire in particular caught my interest—the 
+massive fire in El Dorado County, CA that was actually the result of irresponsibly 
+used pyrotechnics at a gender reveal party. 
+
+
+Data & Methods
+======
+<ul>
+  <li> Acquired data from U.S Census bureau, Kaggle.com, USGS Earth explorer </li>
+  <li> Tried to replicate map from Washington Post and FEMA on wildfire risks by county </li>
+  <li> Created 2019 map of California wildfire incidence </li>
+  <li> Used census data to filter out racial demographic data for El Dorado county, CA </li>
+  <li>Calculated median household income and planar point pattern of California’s wildfire sites</li>
+  <li>Applied the Kolmogorov-Smirnov test to assess goodness-of-fit </li>
+  <li>Attempted, did not complete, normalized difference vegetation index (NDVI) calculation 
+to measure the vegetation health/cover during the El dorado fire. </li>
+  <li>Determined the relationship of the socioeconomic variables to each other and wildfire frequency. </li>
+</ul>
+
+Conclusion & future work
+======
+After generating the Cali maps and doing the NDVI calculations, it showed that 
+the El dorado wildfire was very destructive, the community most likely affected 
+by this incident where white people that have wildfire resiliency plans, and there 
+most likely was vegetative burn/damage during and post the fire. To conclude, the 
+work I did in my R Markdown demonstrated that El Dorado’s communities are 
+vulnerable to wildfire damage and more people living in a county/region of 
+California correlated to higher incidence of wildfires. Due to the dominant racial 
+group in El Dorado being whites, I am assuming that during and post the wildfire, 
+these communities were probably equipped with the necessary resources like 
+insurance, money, shelter, etc. and could sustain themselves during and post the 
+fire. In the future, I would like to do a more complete assessment
+of income vs. race in El Dorada, more statistical analysis, find 
+documentation/insurance claims of specific burn damage, include other variables like air pollution and impacts 
+from wildfires, and actually carry through the NDVI calculation to form a more holistic view of the outcomes of this 
+wildfire
+
+
+
+
