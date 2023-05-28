@@ -1,0 +1,16 @@
+---
+title: "Final Project: Assessing the Damage and Community Impacts from the 2020 Wildfire in El Dorado, California"
+excerpt: "Maps and Data Analysis of El Dorado Wildfire <br/><img src='/images/img_webMap_rinks.png'>"
+
+collection: portfolio
+---
+
+
+
+This interactive webmap was generated in QGIS and simply displays the locations of ice rinks in Maryland. By clicking on an ice rink point, you are able to get the id, 
+and address for each of these locations. 
+
+
+[Ice Rinks of MD](https://amalh2.github.io/portfolio/iceRk_MD/index.html)
+
+
